@@ -30,7 +30,9 @@ plt.title("All Channels (RGB)")
 plt.show()
 
 
-plt.figure(figsize=[20,5])import matplotlib.pyplot as plt
+plt.figure(figsize=[20,5])
+
+import matplotlib.pyplot as plt
 import cv2
 
 img = cv2.imread("E:/Desktop/New folder (5)/unnamed.jpg")
@@ -42,7 +44,7 @@ hue = hsv_image[:,:,0]
 saturation = hsv_image[:,:,1]
 value = hsv_image[:,:,2]
 
-plt.figure(figsize=[20,5])
+plt.figure(figsize=[10,5])
 
 plt.subplot(141)
 plt.imshow(r, cmap='gray')
