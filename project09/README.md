@@ -24,5 +24,4 @@ The program applies morphological opening and closing operations to grayscale im
 
 ## How to Run
 
-```bash
 python opencv_project09.py

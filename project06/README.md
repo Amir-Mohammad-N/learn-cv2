@@ -19,5 +19,4 @@ The converted video is displayed in a window.
 
 ## How to Run
 
-```bash
 python opencv_project06.py

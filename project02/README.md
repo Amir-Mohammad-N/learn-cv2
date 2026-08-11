@@ -18,5 +18,4 @@ The program displays the Red, Green, and Blue channels and converts the image to
 
 ## How to Run
 
-```bash
 python opencv_project02.py

@@ -25,5 +25,4 @@ The program allows the user to draw circles on an image by clicking and moving t
 
 ## How to Run
 
-```bash
 python opencv_project05.py

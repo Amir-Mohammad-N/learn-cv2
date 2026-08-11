@@ -27,5 +27,4 @@ The program applies several thresholding techniques to a grayscale image and dis
 
 ## How to Run
 
-```bash
 python opencv_project07.py

@@ -15,5 +15,4 @@ The program loads an image, displays it in RGB format, converts it to grayscale,
 
 ## How to Run
 
-```bash
 python opencv_project01.py

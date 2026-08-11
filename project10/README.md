@@ -21,5 +21,4 @@ The project includes examples using both a video file and a live camera.
 
 ## How to Run
 
-```bash
 python opencv_project10.py

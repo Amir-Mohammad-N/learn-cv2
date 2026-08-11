@@ -19,5 +19,4 @@ The program creates images and draws lines, rectangles, circles, and text. It al
 
 ## How to Run
 
-```bash
 python opencv_project04.py
