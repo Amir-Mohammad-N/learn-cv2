@@ -4,7 +4,7 @@
 
 This project demonstrates basic image processing operations using OpenCV and Matplotlib.
 
-The program loads an image, displays it in RGB format, converts it to grayscale, changes a selected area to white, and crops a specific area of the image.
+The program loads an image, converts it to grayscale, changes a selected area to white, and crops a specific region of the image.
 
 ## Requirements
 
