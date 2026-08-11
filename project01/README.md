@@ -15,4 +15,5 @@ The program loads an image, converts it to grayscale, changes a selected area to
 
 ## How to Run
 
+```bash
 python opencv_project01.py
