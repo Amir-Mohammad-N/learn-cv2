@@ -1,3 +1,4 @@
+### Project 01 — `project01/README.md`
 
 ```markdown
 # Project 01 - Image Channels and Cropping
