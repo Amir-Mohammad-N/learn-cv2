@@ -12,6 +12,6 @@ plt.title("RGB")
 
 
 plt.show()
-cv2.imshow("amir", img)
+
 
 cv2.waitKey()

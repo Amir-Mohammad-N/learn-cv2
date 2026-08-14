@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread('C:/Users/Pc_Amir.Mhmd/Desktop/photo_2026-05-19_00-44-06.jpg', 0)
+image = cv2.imread('C:/Users/Pc_Amir.Mhmd/Desktop/photo_2026-08-14_20-15-00.jpg', 0)
 
 kernel = np.ones((6,6), np.uint8)
 
@@ -24,7 +24,7 @@ plt.show()
 
 
 
-image = cv2.imread('C:/Users/Pc_Amir.Mhmd/Desktop/photo_2026-05-19_00-43-47.jpg', 0)
+image = cv2.imread('C:/Users/Pc_Amir.Mhmd/Desktop/photo_2026-08-14_20-14-55.jpg', 0)
 
 kernel = np.ones((6,6), np.uint8)
 
