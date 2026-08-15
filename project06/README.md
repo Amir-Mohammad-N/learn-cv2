@@ -20,5 +20,4 @@ The converted video is displayed in a window.
 
 python opencv_project06.py
 ## Output
-
-![Output](project06.png)
+![Uploading project06.png…]()
