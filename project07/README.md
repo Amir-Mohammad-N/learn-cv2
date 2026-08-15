@@ -28,5 +28,4 @@ The program applies several thresholding techniques to a grayscale image and dis
 
 python opencv_project07.py
 ## Output
-
-![Output](project07.png)
+<img width="1920" height="1080" alt="project07" src="https://github.com/user-attachments/assets/9f8b88d2-1f15-44ba-9c87-dd81a46f9f36" />
