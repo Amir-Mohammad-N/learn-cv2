@@ -23,4 +23,4 @@ The project includes examples using both a video file and a live camera.
 python opencv_project10.py
 ## Output
 
-![Output](project10.png)
+<img width="1920" height="1080" alt="project10" src="https://github.com/user-attachments/assets/2ea5b344-d6f4-4064-8ded-b290d90e028c" />
