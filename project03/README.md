@@ -20,5 +20,4 @@ The program loads an image with transparency, separates the BGR and Alpha channe
 
 python opencv_project03.py
 ## Output
-
-![Output](project03.png)
+<img width="1920" height="1080" alt="project03" src="https://github.com/user-attachments/assets/7b46908e-d45e-40a7-a184-163769ca1fc7" />
