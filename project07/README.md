@@ -28,7 +28,6 @@ The program applies several thresholding techniques to a grayscale image and dis
 ## How to Run
 
 python opencv_project07.py
-
 ## Output
 
 ![Output](project07.png)

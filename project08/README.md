@@ -20,7 +20,6 @@ The program detects contours from a thresholded image and draws selected contour
 ## How to Run
 
 python opencv_project08.py
-
 ## Output
 
 ![Output](project08.png)

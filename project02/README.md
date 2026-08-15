@@ -19,9 +19,8 @@ The program displays the Red, Green, and Blue channels and converts the image to
 ## How to Run
 
 python opencv_project02.py
-
 ## Output
 
 ![Output 1](project02.png)
 
-![Output 2](project02(1).png)
+![Output 2](project02%281%29.png)

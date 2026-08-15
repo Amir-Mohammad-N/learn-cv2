@@ -20,15 +20,14 @@ The program creates images and draws lines, rectangles, circles, and text. It al
 ## How to Run
 
 python opencv_project04.py
-
 ## Output
 
 ![Output 1](project04.png)
 
-![Output 2](project04(1).png)
+![Output 2](project04%281%29.png)
 
-![Output 3](project04(2).png)
+![Output 3](project04%282%29.png)
 
-![Output 4](project04(3).png)
+![Output 4](project04%283%29.png)
 
-![Output 5](project04(4).png)
+![Output 5](project04%284%29.png)

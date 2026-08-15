@@ -19,7 +19,6 @@ The program applies grayscale conversion, Gaussian Blur, and Canny Edge Detectio
 ## How to Run
 
 python opencv_project11.py
-
 ## Output
 
 ![Output](project11.png)

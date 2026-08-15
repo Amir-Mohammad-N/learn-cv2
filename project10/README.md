@@ -22,7 +22,6 @@ The project includes examples using both a video file and a live camera.
 ## How to Run
 
 python opencv_project10.py
-
 ## Output
 
 ![Output](project10.png)
