@@ -26,6 +26,5 @@ The program applies morphological opening and closing operations to grayscale im
 python opencv_project09.py
 ## Output
 
-![Output 1](project09.png)
-
-![Output 2](project09%281%29.png)
+<img width="1920" height="1080" alt="project09(1)" src="https://github.com/user-attachments/assets/849528c9-8d0f-4dc7-a921-3953e19aa8da" />
+<img width="1920" height="1080" alt="project09" src="https://github.com/user-attachments/assets/0a8cf583-8cc5-470b-8c7f-779cc0c22d97" />
