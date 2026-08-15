@@ -20,4 +20,4 @@ The program applies grayscale conversion, Gaussian Blur, and Canny Edge Detectio
 python opencv_project11.py
 ## Output
 
-![Output](project11.png)
+<img width="1920" height="1080" alt="project11" src="https://github.com/user-attachments/assets/17bb580f-8f4f-42dc-9152-e367b9146820" />
