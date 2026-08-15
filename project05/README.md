@@ -26,5 +26,4 @@ The program allows the user to draw circles on an image by clicking and moving t
 
 python opencv_project05.py
 ## Output
-
-![Output](project05.png)
+<img width="1920" height="1080" alt="project05" src="https://github.com/user-attachments/assets/9f7c4dd8-31cf-45ea-8681-f2b9a820731f" />
