@@ -1,7 +1,6 @@
 
 ### Project 06 — `project06/README.md`
 
-```markdown
 # Project 06 - Camera and HSV
 
 ## Description

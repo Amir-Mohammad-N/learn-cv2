@@ -1,7 +1,6 @@
 
 ### Project 04 — `project04/README.md`
 
-```markdown
 # Project 04 - Drawing Shapes and Text
 
 ## Description

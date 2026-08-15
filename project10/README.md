@@ -1,7 +1,6 @@
 
 ### Project 10 — `project10/README.md`
 
-```markdown
 # Project 10 - Blue Object Tracking
 
 ## Description

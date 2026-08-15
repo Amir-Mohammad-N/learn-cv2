@@ -1,7 +1,6 @@
 
 ### Project 08 — `project08/README.md`
 
-```markdown
 # Project 08 - Contours
 
 ## Description

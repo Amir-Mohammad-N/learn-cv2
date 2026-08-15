@@ -1,7 +1,6 @@
 
 ### Project 07 — `project07/README.md`
 
-```markdown
 # Project 07 - Thresholding
 
 ## Description

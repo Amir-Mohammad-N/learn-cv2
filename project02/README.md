@@ -1,7 +1,6 @@
 
 ### Project 02 — `project02/README.md`
 
-```markdown
 # Project 02 - RGB and HSV Channels
 
 ## Description

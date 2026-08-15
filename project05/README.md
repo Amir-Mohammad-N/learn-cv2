@@ -1,7 +1,6 @@
 
 ### Project 05 — `project05/README.md`
 
-```markdown
 # Project 05 - Mouse Events and Drawing
 
 ## Description

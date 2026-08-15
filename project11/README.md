@@ -1,6 +1,5 @@
 ### Project 11 — `project11/README.md`
 
-```markdown
 # Project 11 - Canny Edge Detection
 
 ## Description

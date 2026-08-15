@@ -1,7 +1,6 @@
 
 ### Project 03 — `project03/README.md`
 
-```markdown
 # Project 03 - Alpha Channel
 
 ## Description

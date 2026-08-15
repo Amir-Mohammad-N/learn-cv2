@@ -1,7 +1,6 @@
 
 ### Project 09 — `project09/README.md`
 
-```markdown
 # Project 09 - Morphological Operations
 
 ## Description
