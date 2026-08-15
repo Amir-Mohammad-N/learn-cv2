@@ -20,3 +20,7 @@ The program loads an image with transparency, separates the BGR and Alpha channe
 ## How to Run
 
 python opencv_project03.py
+
+## Output
+
+![Output](project03.png)
