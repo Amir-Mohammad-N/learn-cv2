@@ -21,12 +21,8 @@ The program creates images and draws lines, rectangles, circles, and text. It al
 python opencv_project04.py
 ## Output
 
-![Output 1](project04.png)
-
-![Output 2](project04%281%29.png)
-
-![Output 3](project04%282%29.png)
-
-![Output 4](project04%283%29.png)
-
-![Output 5](project04%284%29.png)
+<img width="1920" height="1080" alt="project04(4)" src="https://github.com/user-attachments/assets/2b0d071f-9e63-423b-84a7-6c23c03f074b" />
+<img width="1920" height="1080" alt="project04(3)" src="https://github.com/user-attachments/assets/6c8fd0e7-e9ce-41c3-87f2-81a744083593" />
+<img width="1920" height="1080" alt="project04(2)" src="https://github.com/user-attachments/assets/0ec081fe-5784-4847-a8e7-480c1db55835" />
+<img width="1920" height="1080" alt="project04(1)" src="https://github.com/user-attachments/assets/d9bad716-f50d-46dd-891c-c893245d5b04" />
+<img width="1920" height="1080" alt="project04" src="https://github.com/user-attachments/assets/b2bdb60a-a5ef-45b5-9d55-b09caa2b6267" />
