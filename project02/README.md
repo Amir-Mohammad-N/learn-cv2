@@ -19,7 +19,5 @@ The program displays the Red, Green, and Blue channels and converts the image to
 
 python opencv_project02.py
 ## Output
-
-![Output 1](project02.png)
-
-![Output 2](project02%281%29.png)
+<img width="1920" height="1080" alt="project02" src="https://github.com/user-attachments/assets/e76f5203-4ab6-435f-83f9-6b60c8edd20a" />
+<img width="1920" height="1080" alt="project02(1)" src="https://github.com/user-attachments/assets/0fb84847-c73d-4f45-9354-abd21ad5522a" />
